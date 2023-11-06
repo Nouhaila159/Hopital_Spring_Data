@@ -45,6 +45,7 @@ class HospitalProjectApplication {
                     });
             Patient patient=patientRepository.findByNom("Nouhaila");
             Patient patient1=patientRepository.findById(1L).orElse(null);
+            System.out.println(patient1.getNom());
             Medecin medecin=medecinRepository.findByNom("Rania");
             RendezVous rendezVous=new RendezVous();
             rendezVous.setDate(new Date());
