@@ -130,4 +130,3 @@ Enfin, l'exposition d'une API REST pour la gestion des patients a montré
 comment Spring Boot simplifie le développement de points d'accès HTTP,
 tout en renvoyant des données au
 JSON pour une intégration transparente avec d'autres systèmes.</p>
-
