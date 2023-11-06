@@ -115,7 +115,7 @@ liste des patients. La réponse au format JSON</p>
 <img src="captures/affichage.png" alt="idRDV">
 </ul>
 <h2>Conclusion</h2>
-<p style="text-align: justify; text-justify: inter-word;">En conclusion, le projet "Hospital Project" est une démonstration réussie de
+<p style="text-align: justify; text-justify: inter-word;">En conclusion, ce projet est une démonstration réussie de
 la puissance de Spring Boot pour simplifier le développement d'applications Java.
 À travers l'étude de sa conception, de sa structure,
 et de l'utilisation des annotations, nous avons pu 
