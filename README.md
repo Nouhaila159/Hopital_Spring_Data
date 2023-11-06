@@ -88,7 +88,7 @@ méthodes essentielles.
   </li>
 </ol>
 <h2>Configuration de la Base de Données</h2>
-<b>Le projet utilise une base de données H2 en mémoire. La configuration de la source de données se fait dans le fichier application.properties. La base de données est accessible via la console H2 avec le paramètre spring.h2.console.enabled activé.</b>
+Le projet utilise une base de données H2 en mémoire. La configuration de la source de données se fait dans le fichier application.properties. La base de données est accessible via la console H2 avec le paramètre spring.h2.console.enabled activé.</b>
 <h2>Création des Relations entre les Entités</h2>
 
 <ul>
